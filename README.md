@@ -1,6 +1,6 @@
 🚀 DecodeLabs Internship – Project 1
 
-## 🌸 Static Webpage Design
+##  Static Webpage Design
 
 Welcome to my first project as a Frontend Developer Intern at **DecodeLabs**.
 
